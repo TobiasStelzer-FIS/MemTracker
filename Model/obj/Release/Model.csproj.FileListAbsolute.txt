@@ -1,0 +1,7 @@
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\bin\Release\Model.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\bin\Release\Model.pdb
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\bin\Release\Memindh.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\bin\Release\Memindh.pdb
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\obj\Release\Model.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Model\obj\Release\Model.pdb

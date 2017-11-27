@@ -1,0 +1,4 @@
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\bin\x86\Debug\Memindh.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\bin\x86\Debug\Memindh.pdb
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\obj\x86\Debug\Memindh.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\obj\x86\Debug\Memindh.pdb

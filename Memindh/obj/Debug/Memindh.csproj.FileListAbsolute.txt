@@ -1,0 +1,5 @@
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\bin\Debug\Memindh.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\bin\Debug\Memindh.pdb
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\obj\Debug\Memindh.dll
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\obj\Debug\Memindh.pdb
+C:\Users\Tobias\Documents\Visual Studio 2013\Projects\MemTracker\Memindh\obj\Debug\Memindh.csprojResolveAssemblyReference.cache
